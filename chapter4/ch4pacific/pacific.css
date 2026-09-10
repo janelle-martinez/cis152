@@ -18,6 +18,9 @@ h2 {
 dt {
   color: #002171; /* c#002171 */
 }
+address {
+  font-style: normal;
+}
 .resort {
   color: #1976d2; /* c#1976d2 */
 }
