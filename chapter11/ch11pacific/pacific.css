@@ -319,11 +319,11 @@ input[type="submit"]:focus {
 
 /* hover effect on images */
 .gallery-image:hover{
-  transform: translateY(-5px);
+  transform: translateY();
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.6);
 }
 .gallery-image:hover img{
-  transform: scale(1.05);
+  transform: scale(1.1);
 }
 
 
